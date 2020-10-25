@@ -2,8 +2,16 @@
 
 ### Screenshots
 
-<img src="./ss/iphone-light.png" width="30%" alt="pixearch iphone light theme">
-<img src="./ss/iphone-dark.png" width="30%" alt="pixearch dialog iphone dark theme">
+<table>
+  <tr>
+    <td>    
+      <img src="./ss/iphone-light.png" width="50%" alt="pixearch iphone light theme">
+    </td>
+    <td>
+      <img src="./ss/iphone-dark.png" width="50%" alt="pixearch dialog iphone dark theme">
+    </td>
+  </tr>
+</table>
 <img src="./ss/laptop-dark.png" width="80%" alt="pixearch tablet dark theme">
 
 ## This project is not open sourced yet. This repository is for bug tracking only.
