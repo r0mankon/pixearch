@@ -26,7 +26,7 @@
 
 ## TO-DO
 
-- [ ] Add more options
+- [x] Add more options
 - [ ] Fix bugs
 - [ ] Implement routing for dialog
 - [ ] Probably move the side drawer in top dropdown style
