@@ -1,4 +1,4 @@
-# [Pixearch deployed at netlify](https://pixearch.netlify.app)
+# [Pixearch deployed by netlify](https://pixearch.netlify.app)
 
 ### Screenshots
 
