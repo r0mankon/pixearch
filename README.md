@@ -16,17 +16,9 @@
 
 ## This project is not open sourced yet. This repository is for bug tracking only.
 
-### Feel free to create an issue in the issues tab
-
-## Known Issues
-
-- Can't press back to close the dialog
-- Small search field in mobile device
-- Double drawer in desktop mode
-
 ## TO-DO
 
 - [x] Add more options
-- [ ] Fix bugs
-- [ ] Implement routing for dialog
-- [ ] Probably move the side drawer in top dropdown style
+- [x] Fix bugs
+- [x] Implement routing for dialog
+- [x] Probably move the side drawer in top dropdown style
